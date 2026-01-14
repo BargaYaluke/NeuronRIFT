@@ -1,0 +1,12 @@
+data/
+datasets/
+checkpoints/
+runs/
+results/
+wandb/
+logs/
+*.pt
+*.pth
+*.ckpt
+*.tar
+*.npz
